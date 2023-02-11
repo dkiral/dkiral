@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dkiral
 - 👀 I’m interested in your mother (seriously)
 - 🌱 I’m currently trying to learn js
-- 📫 How to reach me : discord : dkiral#1339
+- 📫 How to reach me : discord : dkiral#6937
 
 <!---
 dkiral/dkiral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
